@@ -9,4 +9,4 @@ for C/C++/Phthon
 ### 글머리 3
 #### 글머리 4
 
-[글머리 1](https://google.com)
+[글머리 1](table1.md)
